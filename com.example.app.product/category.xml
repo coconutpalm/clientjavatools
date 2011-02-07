@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.example.app.bootstrapper.feature_1.0.0.qualifier.jar" id="com.example.app.bootstrapper.feature" version="1.0.0.qualifier">
+      <category name="bootstrapper_category_id"/>
+   </feature>
+   <category-def name="bootstrapper_category_id" label="Bootstrapper Category">
+      <description>
+         Description of example category
+      </description>
+   </category-def>
+</site>

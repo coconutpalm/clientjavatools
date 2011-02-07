@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.eclipse.rcp_3.6.1.r361_v20100827-9OArFLdFjY-ThSQXmKvKz0_T.jar" id="org.eclipse.rcp" version="3.6.1.r361_v20100827-9OArFLdFjY-ThSQXmKvKz0_T"/>
+   <feature url="features/com.example.app.bootstrapper.feature_1.0.0.201101251417.jar" id="com.example.app.bootstrapper.feature" version="1.0.0.201101251417"/>
+</site>
